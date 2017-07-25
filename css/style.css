@@ -22,10 +22,10 @@ ul.top{
 }
 
 ul.foot {
-    background-color: azure;
+    background-color: whitesmoke;
     list-style-type: none;
     margin:0;
-    margin-top: 170px;
+    margin-top: 138px;
     padding: 0;
     overflow: hidden;
     bottom: 0px;
@@ -69,17 +69,23 @@ a.foot {
 input{
     display: block;
     margin: auto;
-    width: 500px;
-    height: 25px;
+    width: 650px;
+    height: 40px;
+    border-style: outset;
+    border-radius: 10px;
+    border-width: 2px;
 }
 
 .wrapper {
     text-align: center;
 }
 .button{
-    padding: 5px;
+    padding: 15px;
     margin-top: 10px;
-    background-color: darkgrey;
+    background-color: whitesmoke;
+    border-width: 1px;
+    border-radius: 4px;
+    border-style: none;
 }
 
 p{
